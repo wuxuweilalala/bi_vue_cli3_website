@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["PrimaryRouter19"],{2580:function(e,n,t){},"363e":function(e,n,t){"use strict";var r=t("2580"),a=t.n(r);a.a},f3e1:function(e,n,t){"use strict";t.r(n);var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"userCenter"},[t("Sidebar")],1)},a=[],s=t("b3e6"),c={name:"UserCenter",components:{Sidebar:s["default"]}},i=c,u=(t("363e"),t("0c7c")),o=Object(u["a"])(i,r,a,!1,null,"1d5ff040",null);n["default"]=o.exports}}]);
+//# sourceMappingURL=PrimaryRouter19.96053a75.js.map
